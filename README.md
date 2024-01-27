@@ -1,5 +1,6 @@
-# Project-1
-Learning how to code data visualisation
+# Business Plan- Phase III Project
+
+
 ## Scope of Work
 Does your brilliant billion dollar idea compile into a sustainable business? Do you really need this funding now? 
 Hmm, let's speak on facts... We are in 2049 and you are building a Spacecraft. 
