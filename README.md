@@ -1,10 +1,8 @@
 # Business Plan- Phase III Project
+This project is data driven. It is based on a loss management model to reduce egg production losses which are inevitable in egg production. From proven research egg production losses up to commercialization reach 40% of the total produced eggs. Which means only 60% of eggs on average get to the shielf due to technical issues like breakages and standard size requirements. More over more losses are incured due to limited sheilf life and packaging breakages which translates to more losses. A loss management solution is then required for value addition of egg breakages and meet the egg demand in the market. 
 
+## Scope of Project
 
-## Scope of Work
-Does your brilliant billion dollar idea compile into a sustainable business? Do you really need this funding now? 
-Hmm, let's speak on facts... We are in 2049 and you are building a Spacecraft. 
-How a viable business plan might look like?
 
 ### Summary
 
